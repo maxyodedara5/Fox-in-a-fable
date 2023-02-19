@@ -14,7 +14,7 @@ Mega bat somewhere, kill him.
 https://user-images.githubusercontent.com/17339687/219855797-aca301ea-2ffa-464a-b182-7b05ff0fe552.mp4
 
 ## Usage:
-To run the game on your PC, download the ".exe" from the repo. FoxInAFable.
+To run the game on your PC, download the [FoxInAFable.exe](https://github.com/maxyodedara5/Fox-in-a-fable/blob/main/FoxInAFable.exe)
 
 ## Controls:
 Arrow keys to move about along with WASD with thier regular directions
