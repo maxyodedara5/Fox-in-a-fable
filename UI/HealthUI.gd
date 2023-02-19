@@ -23,3 +23,8 @@ func _ready():
 	self.hearts = PlayerStats.health
 	PlayerStats.connect("health_changed", self, "set_hearts")
 	PlayerStats.connect("max_health_changed", self, "set_max_hearts")
+
+# Exit code event
+func _input(event):
+	if event.is_action_pressed("ui_cancel"):
+		get_tree().quit()
